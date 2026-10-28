@@ -22,3 +22,12 @@ La connexion GitHub utilisée pour produire les fichiers n'expose pas la command
 Les fichiers publics résident à la racine. Pas de framework ni étape de compilation. Pour une modification, faire évoluer `main` puis mettre `gh-pages` sur la même révision. Éviter les GitHub Actions non nécessaires.
 
 © 2026 GolApp Studio.
+
+## Mise à jour Preview 0.9
+
+Le site décrit le laboratoire de test accessible par l'icône éprouvette dans
+la version Preview : temps accéléré, crédits fictifs illimités et prérequis
+de progression débloqués. Ces fonctionnalités restent absentes de Production.
+La page d'accueil a été mise à jour pour afficher la version 0.9 et la
+checklist inclut les nouveaux contenus. Aucun APK n'est disponible tant
+qu'une compilation réelle ne l'a pas confirmé.
