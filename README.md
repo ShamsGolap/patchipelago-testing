@@ -31,3 +31,11 @@ de progression débloqués. Ces fonctionnalités restent absentes de Production.
 La page d'accueil a été mise à jour pour afficher la version 0.9 et la
 checklist inclut les nouveaux contenus. Aucun APK n'est disponible tant
 qu'une compilation réelle ne l'a pas confirmé.
+
+## Patchipelago 0.10
+
+Le portail présente six rencontres optionnelles à choix de récompense,
+la carte vectorielle à neuf îles et le tutoriel en 13 étapes. La checklist
+locale contient 14 contrôles. Aucun APK n'est annoncé comme téléchargeable
+tant qu'un build réel n'a pas été validé. La publication effective de Pages
+reste à activer dans Settings → Pages si l'URL publique ne fonctionne pas.
