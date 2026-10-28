@@ -39,3 +39,14 @@ la carte vectorielle à neuf îles et le tutoriel en 13 étapes. La checklist
 locale contient 14 contrôles. Aucun APK n'est annoncé comme téléchargeable
 tant qu'un build réel n'a pas été validé. La publication effective de Pages
 reste à activer dans Settings → Pages si l'URL publique ne fonctionne pas.
+
+## Patchipelago 0.11
+
+Le portail présente maintenant les **six alliances d'ateliers**, les
+trois nouvelles expéditions et les raccourcis de rang 1 et 5 du
+laboratoire Preview. Le tutoriel contient 14 étapes ; la checklist locale
+possède désormais **16 contrôles**.
+
+Cette version n'a pas encore été compilée : aucun APK 0.11 n'est affiché
+en téléchargement. Activer / vérifier la source GitHub Pages via
+Settings → Pages → gh-pages / (root) pour la publication effective.
