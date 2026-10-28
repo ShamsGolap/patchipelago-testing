@@ -61,3 +61,18 @@ comporte 16 étapes, la checklist locale **18 vérifications**.
 **Aucun APK certifié n'est proposé.** Le réglage GitHub Pages doit
 toujours être vérifié par le propriétaire : Settings → Pages →
 Deploy from a branch → gh-pages → /(root).
+
+## Patchipelago Preview 0.13
+
+Quatre ambiances et trois décorations (plus l'option sans décoration)
+créées en dessin vectoriel Flutter, débloquées en jouant. Les transitions
+visuelles tiennent compte de l'option Android « Supprimer les animations »
+et du réglage local « Réduire les animations ».
+
+Le laboratoire Preview permet d'activer immédiatement tous les
+prérequis cosmétiques. Le tutoriel comporte **17 étapes** ;
+la checklist interactive compte **20 vérifications**.
+
+Aucun APK n'est indiqué comme disponible tant qu'il n'a pas été
+réellement compilé. Le propriétaire doit encore vérifier l'activation
+de GitHub Pages dans Settings → Pages → gh-pages / (root).
