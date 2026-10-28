@@ -50,3 +50,14 @@ possède désormais **16 contrôles**.
 Cette version n'a pas encore été compilée : aucun APK 0.11 n'est affiché
 en téléchargement. Activer / vérifier la source GitHub Pages via
 Settings → Pages → gh-pages / (root) pour la publication effective.
+
+## Patchipelago Preview 0.12
+
+Nouveau volet pilote automatique (une amélioration par tick, réserves
+0/25/50/75 %), cinq héritages de prestige et carnet de carrière.
+Le laboratoire Preview peut simuler 3 ou 12 prestiges. Le tutoriel
+comporte 16 étapes, la checklist locale **18 vérifications**.
+
+**Aucun APK certifié n'est proposé.** Le réglage GitHub Pages doit
+toujours être vérifié par le propriétaire : Settings → Pages →
+Deploy from a branch → gh-pages → /(root).
